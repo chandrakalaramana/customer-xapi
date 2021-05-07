@@ -146,5 +146,6 @@ output application/java
 payload]]></ee:set-payload>
 			</ee:message>
 		</ee:transform>
+		<logger level="INFO" doc:name="Logger" doc:id="e2d16794-47de-4ba3-857b-3ab487ffc206" message="Flow Ended::"/>
     </flow>
 </mule>
